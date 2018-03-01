@@ -1,8 +1,8 @@
 (function() {
 	
-	var sttds = $("#simpletable td");
+	var tabcells = $("#simpletable td");
 
-	sttds.each(function() {
+	tabcells.each(function() {
 		var tdtext = $(this).text();
 		var tdtext = numberWithCommas(tdtext);
 		var tdtext = "$ " + tdtext;
