@@ -1,0 +1,26 @@
+body {
+	font-family: 'Raleway', 'Helvetica', sans-serif;
+	background-color: #DDD;
+}
+
+table {
+	border: 4px solid #383838;
+	border-collapse: collapse;
+
+	display: inline-block; /* Hack to get I.E./Edge to display drop shadow */
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+#simpletable th, #simpletable td {
+	border: 2px solid #383838;
+	padding: 10px 15px;
+}
+
+#simpletable th {
+	background-color: #555;
+	color: rgb(251, 255, 0);
+	border-right: none;
+}
+#simpletable td {
+	background-color: #FFF;
+}

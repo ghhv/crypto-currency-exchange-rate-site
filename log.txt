@@ -1,0 +1,2019 @@
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11017.12},"LTC":{"USD":213.16},"BCH":{"USD":1300.02},"ETH":{"USD":874.17}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:38:23 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11024.99},"LTC":{"USD":213.39},"BCH":{"USD":1300.88},"ETH":{"USD":874.12}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:37:21 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11026.14},"LTC":{"USD":213.42},"BCH":{"USD":1301.46},"ETH":{"USD":874.11}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:36:24 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11027.41},"LTC":{"USD":213.42},"BCH":{"USD":1301.86},"ETH":{"USD":874.11}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11027.41},"LTC":{"USD":213.42},"BCH":{"USD":1301.86},"ETH":{"USD":874.11}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:36:20 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:36:19 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11027.41},"LTC":{"USD":213.42},"BCH":{"USD":1301.86},"ETH":{"USD":874.11}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:36:11 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11026.47},"LTC":{"USD":213.45},"BCH":{"USD":1301.87},"ETH":{"USD":874.13}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:35:49 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11025.89},"LTC":{"USD":213.49},"BCH":{"USD":1300.77},"ETH":{"USD":874.15}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:35:18 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11024.2},"LTC":{"USD":213.33},"BCH":{"USD":1300.84},"ETH":{"USD":874.18}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:35:02 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11023.73},"LTC":{"USD":213.3},"BCH":{"USD":1300.82},"ETH":{"USD":874.18}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:34:51 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11021.74},"LTC":{"USD":213.15},"BCH":{"USD":1300.73},"ETH":{"USD":874.04}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:34:17 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11020.27},"LTC":{"USD":213.15},"BCH":{"USD":1300.82},"ETH":{"USD":874.04}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:33:59 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11013.03},"LTC":{"USD":213.15},"BCH":{"USD":1300.99},"ETH":{"USD":874.06}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:33:15 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11011.83},"LTC":{"USD":213.07},"BCH":{"USD":1301.04},"ETH":{"USD":874.06}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:32:57 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11013.22},"LTC":{"USD":213.13},"BCH":{"USD":1301.02},"ETH":{"USD":873.83}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:31:59 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11000.69},"LTC":{"USD":213.03},"BCH":{"USD":1301.56},"ETH":{"USD":873.74}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:30:57 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":10998.5},"LTC":{"USD":213.08},"BCH":{"USD":1301.44},"ETH":{"USD":873.6}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:29:55 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":10998.09},"LTC":{"USD":213.1},"BCH":{"USD":1301.38},"ETH":{"USD":873.76}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:28:53 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":10990.83},"LTC":{"USD":213.1},"BCH":{"USD":1301.2},"ETH":{"USD":873.71}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:28:31 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":10990.83},"LTC":{"USD":213.1},"BCH":{"USD":1301.2},"ETH":{"USD":873.71}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:28:27 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":10996.17},"LTC":{"USD":213.1},"BCH":{"USD":1300.95},"ETH":{"USD":873.82}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:27:25 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":10991.73},"LTC":{"USD":213.17},"BCH":{"USD":1298.94},"ETH":{"USD":873.64}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:26:46 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":10991.73},"LTC":{"USD":213.17},"BCH":{"USD":1298.94},"ETH":{"USD":873.64}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:26:36 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":10985.21},"LTC":{"USD":213.17},"BCH":{"USD":1298.69},"ETH":{"USD":874.08}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:26:15 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":10985},"LTC":{"USD":213.06},"BCH":{"USD":1298.37},"ETH":{"USD":874.11}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:26:04 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":10985.6},"LTC":{"USD":213.05},"BCH":{"USD":1299.53},"ETH":{"USD":874.13}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:25:29 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":10988.68},"LTC":{"USD":213.07},"BCH":{"USD":1300.12},"ETH":{"USD":874.46}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:25:15 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":10997.22},"LTC":{"USD":213.08},"BCH":{"USD":1301.13},"ETH":{"USD":875.05}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:24:39 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11007.08},"LTC":{"USD":213.1},"BCH":{"USD":1300.98},"ETH":{"USD":875.1}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:24:13 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11008.76},"LTC":{"USD":213.11},"BCH":{"USD":1300.99},"ETH":{"USD":875.38}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:24:00 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11018.07},"LTC":{"USD":213.24},"BCH":{"USD":1300.87},"ETH":{"USD":875.74}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:23:11 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11033.49},"LTC":{"USD":213.36},"BCH":{"USD":1300.71},"ETH":{"USD":875.75}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:22:09 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11032.38},"LTC":{"USD":213.33},"BCH":{"USD":1300.64},"ETH":{"USD":875.76}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:21:59 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11032.24},"LTC":{"USD":213.43},"BCH":{"USD":1300.94},"ETH":{"USD":876.38}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:20:57 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11035.37},"LTC":{"USD":213.46},"BCH":{"USD":1300.97},"ETH":{"USD":876.28}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:20:51 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11035.37},"LTC":{"USD":213.46},"BCH":{"USD":1300.97},"ETH":{"USD":876.28}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:20:42 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11035.33},"LTC":{"USD":213.46},"BCH":{"USD":1300.97},"ETH":{"USD":876.28}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:20:30 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11037.3},"LTC":{"USD":213.46},"BCH":{"USD":1301.01},"ETH":{"USD":876.42}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:19:55 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11030.99},"LTC":{"USD":213.39},"BCH":{"USD":1300.59},"ETH":{"USD":875.96}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:18:53 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11024.5},"LTC":{"USD":213.28},"BCH":{"USD":1300.23},"ETH":{"USD":875.53}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:17:51 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11013.71},"LTC":{"USD":213.23},"BCH":{"USD":1299.66},"ETH":{"USD":875.66}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:16:50 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11019.72},"LTC":{"USD":213.24},"BCH":{"USD":1299.66},"ETH":{"USD":875.64}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:15:48 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 1 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 1 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 1 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11018.59},"LTC":{"USD":213.23},"BCH":{"USD":1299.71},"ETH":{"USD":875.63}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:15:20 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11014.85},"LTC":{"USD":213.23},"BCH":{"USD":1299.59},"ETH":{"USD":875.56}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:15:02 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11015.05},"LTC":{"USD":213.24},"BCH":{"USD":1299.59},"ETH":{"USD":875.55}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:14:51 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11015.42},"LTC":{"USD":213.24},"BCH":{"USD":1299.73},"ETH":{"USD":875.55}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:14:34 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11010.82},"LTC":{"USD":213.24},"BCH":{"USD":1299.67},"ETH":{"USD":875.52}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:14:18 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11011.44},"LTC":{"USD":213.41},"BCH":{"USD":1299.22},"ETH":{"USD":875.52}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:13:23 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11011.44},"LTC":{"USD":213.41},"BCH":{"USD":1299.22},"ETH":{"USD":875.52}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:13:18 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11009.79},"LTC":{"USD":213.42},"BCH":{"USD":1299.23},"ETH":{"USD":875.59}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11009.79},"LTC":{"USD":213.42},"BCH":{"USD":1299.23},"ETH":{"USD":875.59}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:13:07 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:13:07 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11022},"LTC":{"USD":213.49},"BCH":{"USD":1299.28},"ETH":{"USD":875.59}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:12:40 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11019.62},"LTC":{"USD":213.15},"BCH":{"USD":1299.85},"ETH":{"USD":875.58}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:12:24 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11007.6},"LTC":{"USD":213.14},"BCH":{"USD":1300.2},"ETH":{"USD":875.72}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:12:10 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11007.6},"LTC":{"USD":213.14},"BCH":{"USD":1300.2},"ETH":{"USD":875.72}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:12:06 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11007.6},"LTC":{"USD":213.14},"BCH":{"USD":1300.2},"ETH":{"USD":875.72}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:12:03 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11032.84},"LTC":{"USD":213.41},"BCH":{"USD":1301.4},"ETH":{"USD":876.5}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:11:01 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11040.7},"LTC":{"USD":213.43},"BCH":{"USD":1301.37},"ETH":{"USD":877.1}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:10:43 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11053.6},"LTC":{"USD":213.44},"BCH":{"USD":1301.38},"ETH":{"USD":876.99}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:10:05 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11053.6},"LTC":{"USD":213.44},"BCH":{"USD":1301.38},"ETH":{"USD":876.99}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:09:56 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11056.96},"LTC":{"USD":213.44},"BCH":{"USD":1301.35},"ETH":{"USD":876.94}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:08:55 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11058.68},"LTC":{"USD":213.45},"BCH":{"USD":1299.92},"ETH":{"USD":877.07}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:07:53 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11060.7},"LTC":{"USD":213.89},"BCH":{"USD":1302.33},"ETH":{"USD":876.94}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:06:51 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11060.72},"LTC":{"USD":213.91},"BCH":{"USD":1303.12},"ETH":{"USD":877.57}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:05:50 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11068.12},"LTC":{"USD":213.85},"BCH":{"USD":1301.69},"ETH":{"USD":877.57}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:05:37 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11069.21},"LTC":{"USD":213.84},"BCH":{"USD":1301.7},"ETH":{"USD":877.59}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:05:24 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Cached API query (cache key: 2920408459) to "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD": {"BTC":{"USD":11072.4},"LTC":{"USD":213.84},"BCH":{"USD":1301.94},"ETH":{"USD":877.59}}
+
+INFO ::: Successful query of API URL: "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC%2CLTC%2CBCH%2CETH&tsyms=USD"
+
+PERF ::: Banging the Interwebz. This is slow. If several of these are chained together, try queuing them and running a batch query to minimized Internet requests.
+
+INFO ::: Running queued query for the following symbols: BTC,LTC,BCH,ETH
+
+INFO ::: Responding to request for http://127.0.0.1:8080/crypto/ from 127.0.0.1 (USER AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299")
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   2018-03-01 21:05:12 (UTC)   
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO ::: Retrieved cached API query result, with key of 2920408459. Cache is 0 seconds old. Will expire at 60 seconds old.
+
+INFO :::
